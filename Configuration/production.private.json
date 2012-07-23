@@ -1,0 +1,15 @@
+{
+    "application":{
+        "cookie_domain": "8.19.34.138"
+    },
+    "DB:pa_budget_data":{
+        "type":"mongo",
+        "database" : "pabudgets",
+        "host" : "8.19.34.138",
+        "user" : "admin",
+        "password" : "222G9mnnFD",
+        "mode":"mongo",
+        "session":"true",
+        "session_hook":"php"
+    }
+}

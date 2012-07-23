@@ -1,0 +1,9 @@
+{
+    "resource" :{
+        "misspelled" : "rotater.js",
+        "tabs" : "tabs.js"
+    },
+    "dependency":[
+        "mootools"
+    ]
+}
